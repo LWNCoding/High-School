@@ -1,5 +1,5 @@
 # High-School
-Coding programs I completed in High School during Intro to CS (python), APCS A (Java), and ABCS (Java). These programs were often introductory assignments to basic Java and coding concepts (2D arrays, binary, class, abstract classes, etc.)
+These are the coding programs I completed in High School during Intro to CS (python), APCS A (Java), and ABCS (Java). These programs were often introductory assignments to basic Java and coding concepts (2D arrays, binary, class, abstract classes, etc.)
 
 # 2D Array Transformations
 This program flips a 2D array horizontally or vertically, and can reverse the matrix.
